@@ -20,7 +20,7 @@ tei-persname {
 }
 
 tei-abbr {
-    display: hidden;
+    display: none;
 }
 
 tei-expan {
